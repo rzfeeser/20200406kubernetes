@@ -1,2 +1,11 @@
 Links / Resources from Class:
 -----------------------------
+- Alta3 Videos: https://www.youtube.com/user/Alta3Research/
+- Alta3 Posters: https://alta3.com/posters/
+- LMS: https://lms.alta3.com
+
+- GitHub Desktop: https://desktop.github.com/
+
+- goLang: https://golang.org/
+- K8s API references: https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/#_v1_podspec
+- YAML Spec: https://yaml.org/spec/1.2/spec.html
