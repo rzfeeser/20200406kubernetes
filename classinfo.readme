@@ -6,9 +6,15 @@
   times: 
     start time: 9:30 am (eastern)
     end time: 5:30 pm
+    lunch: 1:00 pm (eastern)
 
   github repo: https://github.com/rzfeeser/20200406kubernetes
   digital manuals: https://lms.alta3.com/
+  meeting:
+    daily: https://zoom.us
+    id: 933-482-565
+  
+    
 
  Thanks for training with
            _ _        ____    _____                               _     
@@ -24,11 +30,15 @@
 
 Questions
 ---------
+- Swagger documentation for Kubernetes
+- Steven Wang email question
 
 
 Outline for the Week
 --------------------
 Monday - Overview
+       - YAML Spec
+       - Labs: 01 through 04 (due for Tuesday)
 
 Tuesday - 
 
