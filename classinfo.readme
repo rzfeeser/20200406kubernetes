@@ -1,0 +1,39 @@
+---
+- name: Zach Feeser
+  email: rzfeeser@alta3
+  class title: Kubernetes Essentials
+  days: Monday through Friday
+  times: 
+    start time: 9:30 am (eastern)
+    end time: 5:30 pm
+
+  github repo: https://github.com/rzfeeser/20200406kubernetes
+  digital manuals: https://lms.alta3.com/
+
+ Thanks for training with
+           _ _        ____    _____                               _     
+     /\   | | |      |___ \  |  __ \                             | |    
+    /  \  | | |_ __ _  __) | | |__) |___  ___  ___  __ _ _ __ ___| |__  
+   / /\ \ | | __/ _` ||__ <  |  _  // _ \/ __|/ _ \/ _` | '__/ __| '_ \ 
+  / ____ \| | || (_| |___) | | | \ \  __/\__ \  __/ (_| | | | (__| | | |
+ /_/    \_\_|\__\__,_|____/  |_|  \_\___||___/\___|\__,_|_|  \___|_| |_|
+
+ Subscribe on YouTube: https://www.youtube.com/user/Alta3Research/
+ Poster PDF Cheatsheets Available @ https://alta3.com/posters/
+ 
+
+Questions
+---------
+
+
+Outline for the Week
+--------------------
+Monday - Overview
+
+Tuesday - 
+
+Wednesday - Challenge Labs
+
+Thursday -
+
+Friday - How to deploy Kubernetes in your home lab
