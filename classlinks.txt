@@ -9,3 +9,9 @@ Links / Resources from Class:
 - goLang: https://golang.org/
 - K8s API references: https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/#_v1_podspec
 - YAML Spec: https://yaml.org/spec/1.2/spec.html
+- RESTful: https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm
+- URI description: https://tools.ietf.org/html/rfc3986
+- IANA HTTP - responses: https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+- IANA HTTP - requests: https://www.iana.org/assignments/http-methods/http-methods.xhtml#methods
+- Kubctl overview: https://kubernetes.io/docs/reference/kubectl/overview/
+- Liveness COMMAND: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#define-a-liveness-command
